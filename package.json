@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alen1945/aquada-water-delivery-order.git"
+    "url": "git+https://github.com/Alen1945/api-aquada.git"
   },
   "keywords": [
     "aquada",
@@ -22,9 +22,9 @@
   "author": "alen1945",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Alen1945/aquada-water-delivery-order/issues"
+    "url": "https://github.com/Alen1945/api-aquada/issues"
   },
-  "homepage": "https://github.com/Alen1945/aquada-water-delivery-order#readme",
+  "homepage": "https://github.com/Alen1945/api-aquada#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
